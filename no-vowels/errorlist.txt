@@ -1,0 +1,3 @@
+Error List:
+
+1. One word input supported. (argv[1])
